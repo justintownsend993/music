@@ -1,2 +1,1 @@
-This website was built with React.js, Work in progress
-https://justintownsend993.github.io/music/#/
+This website was built in January 2021 by Justin Townsend.
