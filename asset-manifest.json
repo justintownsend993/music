@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/music/static/css/main.1327aee9.chunk.css",
-    "main.js": "/music/static/js/main.775f88d7.chunk.js",
-    "main.js.map": "/music/static/js/main.775f88d7.chunk.js.map",
+    "main.css": "/music/static/css/main.710a4368.chunk.css",
+    "main.js": "/music/static/js/main.44709b3a.chunk.js",
+    "main.js.map": "/music/static/js/main.44709b3a.chunk.js.map",
     "runtime-main.js": "/music/static/js/runtime-main.b0e78a2a.js",
     "runtime-main.js.map": "/music/static/js/runtime-main.b0e78a2a.js.map",
     "static/js/2.0f681c16.chunk.js": "/music/static/js/2.0f681c16.chunk.js",
     "static/js/2.0f681c16.chunk.js.map": "/music/static/js/2.0f681c16.chunk.js.map",
     "index.html": "/music/index.html",
-    "static/css/main.1327aee9.chunk.css.map": "/music/static/css/main.1327aee9.chunk.css.map",
+    "static/css/main.710a4368.chunk.css.map": "/music/static/css/main.710a4368.chunk.css.map",
     "static/js/2.0f681c16.chunk.js.LICENSE.txt": "/music/static/js/2.0f681c16.chunk.js.LICENSE.txt",
     "static/media/Chill Vibes.e552a13b.mp4": "/music/static/media/Chill Vibes.e552a13b.mp4",
     "static/media/Has Love Become Underrated.ca112672.mp4": "/music/static/media/Has Love Become Underrated.ca112672.mp4",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0e78a2a.js",
     "static/js/2.0f681c16.chunk.js",
-    "static/css/main.1327aee9.chunk.css",
-    "static/js/main.775f88d7.chunk.js"
+    "static/css/main.710a4368.chunk.css",
+    "static/js/main.44709b3a.chunk.js"
   ]
 }
